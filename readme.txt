@@ -5,7 +5,7 @@ Overview
 This project focuses on predicting house prices and classifying them based on their prices using a dataset containing various features such as bedrooms, space, lot size, tax, bathroom count, garage size, and condition. The main goals are to build a linear regression model for price prediction and a classification model to categorize houses based on their price relative to the median.
 
 Dataset
-The dataset (realest.csv) contains information about various houses and their attributes, including:
+The dataset (realest.csv) contains information about various houses in the suburbs of Chicago, which includes the following attributes:
 
 Price: Sale price of the house.
 Bedroom: Number of bedrooms.
